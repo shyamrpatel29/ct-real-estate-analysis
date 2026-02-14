@@ -1,0 +1,26 @@
+# Raw dataset (too large for GitHub)
+Real_Estate_Sales_2001-2021_GL.csv
+*.csv.gz
+
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Tableau temp files
+*.twbr
+*.hyper
+*.tde
